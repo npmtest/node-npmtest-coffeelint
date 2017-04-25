@@ -1,0 +1,27 @@
+<svg height="382" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="382" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 07:44:11 +0000   156156 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 07:44:11 +0000     2105 bytes  3rd_party_rules.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 07:44:11 +0000     2346 bytes  Cakefile</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 07:44:11 +0000     1070 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 07:44:11 +0000     3370 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 07:44:11 +0000     1097 bytes  bin/coffeelint</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 07:44:11 +0000     2013 bytes  doc/integration.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 07:44:11 +0000     2188 bytes  doc/release.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 07:44:11 +0000     3458 bytes  doc/user.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 07:44:11 +0000     2446 bytes  generated_coffeelint.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 07:44:11 +0000     1350 bytes  lib/cache.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 07:44:11 +0000   106948 bytes  lib/coffeelint.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 07:44:11 +0000     9298 bytes  lib/commandline.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 07:44:11 +0000     4115 bytes  lib/configfinder.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 07:44:11 +0000     1665 bytes  lib/reporters/checkstyle.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 07:44:11 +0000     1379 bytes  lib/reporters/csv.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 07:44:11 +0000     3478 bytes  lib/reporters/default.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 07:44:11 +0000     1750 bytes  lib/reporters/jslint.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 07:44:11 +0000     1010 bytes  lib/reporters/raw.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 07:44:11 +0000     1710 bytes  lib/ruleLoader.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 07:44:11 +0000     3265 bytes  package.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 07:44:11 +0000       95 bytes  vowsrunner.js</tspan>
+</text>
+</svg>
